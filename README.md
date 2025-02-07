@@ -20,11 +20,11 @@ Como executar o projeto:
 
 clone project
 ```
-git clone https://github.com/aridsm/tasks-app.git
+git clone https://github.com/carlosmaciel272/Aplicativo-de-Tarefas.git
 ```
 go to projet
 ```
-cd tasks-app
+cd Aplicativos-de-Tarefas
 ```
 install npm
 ```
