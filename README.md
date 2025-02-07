@@ -14,6 +14,7 @@
 - Redux Toolkit
 - React Router DOM
 - HTML
+- NodeJs
 
 Como executar o projeto:
 
