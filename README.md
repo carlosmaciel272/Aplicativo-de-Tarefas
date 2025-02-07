@@ -1,4 +1,4 @@
-![image-description](image-description)
+![image-description](image-description.png)
 
 ## Descrição
 - Esse projeto foi desenvolvido durante a certificação Desenvolvimento Web Fullstack da Trybe
