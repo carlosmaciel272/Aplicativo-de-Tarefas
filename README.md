@@ -1,17 +1,10 @@
-## Description
+## Descrição
+- Esse projeto foi desenvolvido durante a certificação Desenvolvimento Web Fullstack da Trybe
+- O projeto em questão é um aplicativo de gerenciamento de tarefas, podendo ser adicionado, excluído, atualizado e editado as tarefas do usuário
+- Além das operações básicas de um CRUD, foi atribuído funcionalidades como drag in drop de clique e arrasto das tarefas
+- Foi desenvolvido um menu de categorias de acordo com o status da tarefa, exibindo todas, tarefas imcompletas, arquivadas.
 
-- Applied to organize your tasks with the following data: title, description, date, mark as complete and mark as important.
-- Tasks are organized into routes: today's tasks, important tasks, incomplete, complete, all tasks and tasks by directory (folder). Directories and tasks can be edited or deleted. In addition, there is a main directory called "Main" which cannot be edited or deleted.
-- The list of tasks can be displayed first in: nearest, farthest, complete or incomplete.
-- You can search for any tasks in the search field.
-- Today's tasks are shown in the user section and in notifications.
-- Tasks, directories and darkmode data are saved to localStorage.
-
-## Goal
-
-The project mainly aimed to put into practice knowledge of TypeScript, Tailwind, Redux Toolkit and React Js.
-
-## Tools used
+  ## Stacks Utilizadas
 
 - React JS
 - TypeScript
@@ -19,10 +12,8 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 - Redux Toolkit
 - React Router DOM
 - HTML
-- Figma (prototyping)
 
-
-Or run on your machine:
+Como executar o projeto:
 
 clone project
 ```
