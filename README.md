@@ -9,6 +9,7 @@
   ## Stacks Utilizadas
 
 - React JS
+- Java Script
 - TypeScript
 - Tailwind CSS
 - Redux Toolkit
